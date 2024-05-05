@@ -1,1 +1,3 @@
 # BOT PUSH KKONTA
+
+npm i
